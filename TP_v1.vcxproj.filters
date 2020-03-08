@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Systems\Keyboard.cpp" />
+    <ClCompile Include="Systems\Mouse.cpp" />
+    <ClCompile Include="Systems\Time.cpp" />
+    <ClCompile Include="Systems\Window.cpp" />
+    <ClCompile Include="Systems\Graphics.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Program.cpp" />
+    <ClCompile Include="Renders\Resources\VertexType.cpp" />
+    <ClCompile Include="Utilities\Value.cpp" />
+    <ClCompile Include="Renders\IA\VertexBuffer.cpp" />
+    <ClCompile Include="Renders\IA\IndexBuffer.cpp" />
+    <ClCompile Include="Renders\Shaders\IShader.cpp" />
+    <ClCompile Include="Renders\Shaders\VertexShader.cpp" />
+    <ClCompile Include="Renders\Shaders\PixelShader.cpp" />
+    <ClCompile Include="Renders\IA\InputLayout.cpp" />
+    <ClCompile Include="Geometry\Rect.cpp" />
+    <ClCompile Include="Utilities\RenderTexture.cpp" />
+    <ClCompile Include="Geometry\TextureRect.cpp" />
+    <ClCompile Include="Systems\Gui.cpp" />
+    <ClCompile Include="Utilities\SoundSystem.cpp" />
+    <ClCompile Include="Utilities\FileStream.cpp" />
+    <ClCompile Include="Utilities\String.cpp" />
+    <ClCompile Include="Renders\Resources\Texture2D.cpp" />
+    <ClCompile Include="Utilities\Path.cpp" />
+    <ClCompile Include="Renders\States.cpp" />
+    <ClCompile Include="Geometry\AnimationRect.cpp" />
+    <ClCompile Include="Geometry\Animation\Animator.cpp" />
+    <ClCompile Include="Utilities\Math.cpp" />
+    <ClCompile Include="Camera\Camera.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="Utilities\Json.cpp" />
+    <ClCompile Include="Game\Character\Character.cpp" />
+    <ClCompile Include="Game\GameManager.cpp" />
+    <ClCompile Include="Game\Character\Player.cpp" />
+    <ClCompile Include="Geometry\CharacterRect.cpp" />
+    <ClCompile Include="Game\Character\Monster.cpp" />
+    <ClCompile Include="Map\BaseMap.cpp" />
+    <ClCompile Include="Map\WayPoint.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Systems\Keyboard.h" />
+    <ClInclude Include="Systems\Mouse.h" />
+    <ClInclude Include="Systems\Time.h" />
+    <ClInclude Include="Systems\Window.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="Systems\Graphics.h" />
+    <ClInclude Include="Program.h" />
+    <ClInclude Include="Renders\Resources\VertexType.h" />
+    <ClInclude Include="Utilities\Value.h" />
+    <ClInclude Include="Renders\IA\VertexBuffer.h" />
+    <ClInclude Include="Renders\IA\IndexBuffer.h" />
+    <ClInclude Include="Renders\Shaders\IShader.h" />
+    <ClInclude Include="Renders\Shaders\VertexShader.h" />
+    <ClInclude Include="Renders\Shaders\PixelShader.h" />
+    <ClInclude Include="Renders\IA\InputLayout.h" />
+    <ClInclude Include="Renders\Resources\ShaderBuffer.h" />
+    <ClInclude Include="Renders\Resources\GlobalBuffers.h" />
+    <ClInclude Include="Geometry\Rect.h" />
+    <ClInclude Include="Utilities\RenderTexture.h" />
+    <ClInclude Include="Geometry\TextureRect.h" />
+    <ClInclude Include="Systems\Gui.h" />
+    <ClInclude Include="Utilities\SoundSystem.h" />
+    <ClInclude Include="Utilities\FileStream.h" />
+    <ClInclude Include="Utilities\String.h" />
+    <ClInclude Include="Renders\Resources\Texture2D.h" />
+    <ClInclude Include="Utilities\Path.h" />
+    <ClInclude Include="Renders\States.h" />
+    <ClInclude Include="Geometry\AnimationRect.h" />
+    <ClInclude Include="Geometry\Animation\Animator.h" />
+    <ClInclude Include="Utilities\Math.h" />
+    <ClInclude Include="Camera\Camera.h" />
+    <ClInclude Include="Utilities\Json.h" />
+    <ClInclude Include="Utilities\Singleton.h" />
+    <ClInclude Include="Game\Character\Character.h" />
+    <ClInclude Include="Game\GameManager.h" />
+    <ClInclude Include="Game\Character\Player.h" />
+    <ClInclude Include="Geometry\CharacterRect.h" />
+    <ClInclude Include="Game\Character\Monster.h" />
+    <ClInclude Include="Map\BaseMap.h" />
+    <ClInclude Include="Map\WayPoint.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="_Textures\TestMap2.png" />
+    <Image Include="_Textures\TestMap3.png" />
+  </ItemGroup>
+</Project>

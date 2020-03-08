@@ -1,0 +1,60 @@
+{"frames": {
+
+"Dead_L_01.png":
+{
+	"frame": {"x":0,"y":0,"w":43,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":68},
+	"sourceSize": {"w":43,"h":68}
+},
+"Dead_R_01.png":
+{
+	"frame": {"x":43,"y":0,"w":43,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":68},
+	"sourceSize": {"w":43,"h":68}
+},
+"StabO1_L_01.png":
+{
+	"frame": {"x":86,"y":0,"w":131,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":68},
+	"sourceSize": {"w":131,"h":68}
+},
+"StabO1_L_02.png":
+{
+	"frame": {"x":217,"y":0,"w":131,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":68},
+	"sourceSize": {"w":131,"h":68}
+},
+"StabO1_R_01.png":
+{
+	"frame": {"x":348,"y":0,"w":131,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":68},
+	"sourceSize": {"w":131,"h":68}
+},
+"StabO1_R_02.png":
+{
+	"frame": {"x":479,"y":0,"w":131,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":68},
+	"sourceSize": {"w":131,"h":68}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Action.png",
+	"format": "RGBA8888",
+	"size": {"w":610,"h":68},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:65e27cdbc87207fe0980cc9bec845a76:a2fdcfc6de597a931549ca7600befb7c:bbce8d7d85b36f5acb88779dac216db5$"
+}
+}
