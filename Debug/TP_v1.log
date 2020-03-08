@@ -1,2 +1,79 @@
-﻿  Player.cpp
-  TP_v1.vcxproj -> C:\Users\jhj\Desktop\TP_v1\Debug\TP_v1.exe
+﻿  stdafx.cpp
+  Camera.cpp
+  Character.cpp
+  Monster.cpp
+  Player.cpp
+  GameManager.cpp
+  AnimationRect.cpp
+  Animator.cpp
+c:\users\yoonj\desktop\tp_v01\geometry\animation\animator.cpp(85): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\yoonj\desktop\tp_v01\geometry\animation\animator.cpp(97): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\yoonj\desktop\tp_v01\geometry\animation\animator.cpp(111): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\yoonj\desktop\tp_v01\geometry\animation\animator.cpp(112): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\yoonj\desktop\tp_v01\geometry\animation\animator.cpp(154): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\yoonj\desktop\tp_v01\geometry\animation\animator.cpp(158): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\yoonj\desktop\tp_v01\geometry\animation\animator.cpp(245): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  CharacterRect.cpp
+  Rect.cpp
+  TextureRect.cpp
+  main.cpp
+  WayPoint.cpp
+  Program.cpp
+  IndexBuffer.cpp
+  InputLayout.cpp
+  VertexBuffer.cpp
+  Texture2D.cpp
+  VertexType.cpp
+  IShader.cpp
+  PixelShader.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  VertexShader.cpp
+  States.cpp
+  Graphics.cpp
+  Gui.cpp
+  Window.cpp
+  FileStream.cpp
+  Json.cpp
+c:\users\yoonj\desktop\tp_v01\utilities\json.cpp(51): warning C4996: 'Json::Reader::Reader': Use CharReader and CharReaderBuilder instead
+  c:\users\yoonj\desktop\tp_v01\_libraries\json\reader.h(55): note: 'Json::Reader::Reader' 선언을 참조하십시오.
+c:\users\yoonj\desktop\tp_v01\utilities\json.cpp(64): warning C4996: 'Json::StyledWriter': Use StreamWriterBuilder instead
+  c:\users\yoonj\desktop\tp_v01\_libraries\json\writer.h(223): note: 'Json::StyledWriter' 선언을 참조하십시오.
+c:\users\yoonj\desktop\tp_v01\utilities\json.cpp(64): warning C4996: 'Json::StyledWriter::StyledWriter': Use StreamWriterBuilder instead
+  c:\users\yoonj\desktop\tp_v01\_libraries\json\writer.h(225): note: 'Json::StyledWriter::StyledWriter' 선언을 참조하십시오.
+c:\users\yoonj\desktop\tp_v01\utilities\json.cpp(65): warning C4996: 'Json::StyledWriter::write': Use StreamWriterBuilder instead
+  c:\users\yoonj\desktop\tp_v01\_libraries\json\writer.h(233): note: 'Json::StyledWriter::write' 선언을 참조하십시오.
+  Math.cpp
+  Path.cpp
+  RenderTexture.cpp
+  SoundSystem.cpp
+  String.cpp
+  Value.cpp
+  코드를 생성하고 있습니다...
+c:\users\yoonj\desktop\tp_v01\utilities\filestream.cpp(136): warning C4700: 초기화되지 않은 'r' 지역 변수를 사용했습니다.
+  BaseMap.cpp
+  Keyboard.cpp
+  Mouse.cpp
+  Time.cpp
+  코드를 생성하고 있습니다...
+ImGui.lib(imgui.obj) : warning LNK4099: 'ImGui.pdb' PDB를 'ImGui.lib(imgui.obj)' 또는 'C:\Users\yoonj\Desktop\TP_v01\Debug\ImGui.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+ImGui.lib(imgui_draw.obj) : warning LNK4099: 'ImGui.pdb' PDB를 'ImGui.lib(imgui_draw.obj)' 또는 'C:\Users\yoonj\Desktop\TP_v01\Debug\ImGui.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+ImGui.lib(imgui_impl_dx11.obj) : warning LNK4099: 'ImGui.pdb' PDB를 'ImGui.lib(imgui_impl_dx11.obj)' 또는 'C:\Users\yoonj\Desktop\TP_v01\Debug\ImGui.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+ImGui.lib(imgui_impl_win32.obj) : warning LNK4099: 'ImGui.pdb' PDB를 'ImGui.lib(imgui_impl_win32.obj)' 또는 'C:\Users\yoonj\Desktop\TP_v01\Debug\ImGui.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+ImGui.lib(imgui_widgets.obj) : warning LNK4099: 'ImGui.pdb' PDB를 'ImGui.lib(imgui_widgets.obj)' 또는 'C:\Users\yoonj\Desktop\TP_v01\Debug\ImGui.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+directxtex.lib(BC.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'directxtex.lib(BC.obj)' 또는 'C:\Users\yoonj\Desktop\TP_v01\Debug\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+directxtex.lib(BC4BC5.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'directxtex.lib(BC4BC5.obj)' 또는 'C:\Users\yoonj\Desktop\TP_v01\Debug\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+directxtex.lib(BC6HBC7.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'directxtex.lib(BC6HBC7.obj)' 또는 'C:\Users\yoonj\Desktop\TP_v01\Debug\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+directxtex.lib(DirectXTexCompress.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'directxtex.lib(DirectXTexCompress.obj)' 또는 'C:\Users\yoonj\Desktop\TP_v01\Debug\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+directxtex.lib(DirectXTexConvert.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'directxtex.lib(DirectXTexConvert.obj)' 또는 'C:\Users\yoonj\Desktop\TP_v01\Debug\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+directxtex.lib(DirectXTexD3D11.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'directxtex.lib(DirectXTexD3D11.obj)' 또는 'C:\Users\yoonj\Desktop\TP_v01\Debug\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+directxtex.lib(DirectXTexDDS.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'directxtex.lib(DirectXTexDDS.obj)' 또는 'C:\Users\yoonj\Desktop\TP_v01\Debug\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+directxtex.lib(DirectXTexImage.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'directxtex.lib(DirectXTexImage.obj)' 또는 'C:\Users\yoonj\Desktop\TP_v01\Debug\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+directxtex.lib(DirectXTexMipMaps.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'directxtex.lib(DirectXTexMipMaps.obj)' 또는 'C:\Users\yoonj\Desktop\TP_v01\Debug\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+directxtex.lib(DirectXTexTGA.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'directxtex.lib(DirectXTexTGA.obj)' 또는 'C:\Users\yoonj\Desktop\TP_v01\Debug\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+directxtex.lib(DirectXTexUtil.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'directxtex.lib(DirectXTexUtil.obj)' 또는 'C:\Users\yoonj\Desktop\TP_v01\Debug\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+directxtex.lib(DirectXTexWIC.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'directxtex.lib(DirectXTexWIC.obj)' 또는 'C:\Users\yoonj\Desktop\TP_v01\Debug\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+jsoncpp.lib(json_reader.obj) : warning LNK4099: 'lib_json.pdb' PDB를 'jsoncpp.lib(json_reader.obj)' 또는 'C:\Users\yoonj\Desktop\TP_v01\Debug\lib_json.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+jsoncpp.lib(json_value.obj) : warning LNK4099: 'lib_json.pdb' PDB를 'jsoncpp.lib(json_value.obj)' 또는 'C:\Users\yoonj\Desktop\TP_v01\Debug\lib_json.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+jsoncpp.lib(json_writer.obj) : warning LNK4099: 'lib_json.pdb' PDB를 'jsoncpp.lib(json_writer.obj)' 또는 'C:\Users\yoonj\Desktop\TP_v01\Debug\lib_json.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  TP_v1.vcxproj -> C:\Users\yoonj\Desktop\TP_v01\Debug\TP_v1.exe
